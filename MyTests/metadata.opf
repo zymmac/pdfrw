@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc919652-06b9-4429-88a1-33166889292e</dc:identifier>
+        <dc:title>A Beginner's Guide to R</dc:title>
+        <dc:creator opf:file-as="Zuur, Alain &amp; Ieno, Elena N. &amp; Meesters, Erik" opf:role="aut">Alain Zuur</dc:creator>
+        <dc:creator opf:file-as="Zuur, Alain &amp; Ieno, Elena N. &amp; Meesters, Erik" opf:role="aut">Elena N. Ieno</dc:creator>
+        <dc:creator opf:file-as="Zuur, Alain &amp; Ieno, Elena N. &amp; Meesters, Erik" opf:role="aut">Erik Meesters</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.22.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-24T03:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Based on their extensive experience with teaching R and statistics to applied scientists, the authors provide a beginner's guide to R. To avoid the difficulty of teaching R and statistics at the same time, statistical methods are kept to a minimum. The text covers how to download and install R, import and manage data, elementary plotting, an introduction to functions, advanced plotting, and common beginner mistakes. This book contains everything you need to know to get started with R. “Its biggest advantage is that it aims only to teach R...It organizes R commands very efficiently, with much teaching guidance included. I would describe this book as being handy--it’s the kind of book that you want to keep in your jacket pocket or backpack all the time, ready for use, like a Swiss Army knife.” (Loveday Conquest, University of Washington) “Whilst several books focus on learning statistics in R..., the authors of this book fill a gap in the market by focusing on learning R whilst almost completely avoiding any statistical jargon...The fact that the authors have very extensive experience of teaching R to absolute beginners shines throughout.” (Mark Mainwaring, Lancaster University) “Exactly what is needed...This is great, nice work. I love the ecological/biological examples; they will be an enormous help.” (Andrew J. Tyne, University of Nebraska-Lincoln)&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Springer</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B008BB7PL2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780387938370</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">bvwVXHhNQ-4C</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers</dc:subject>
+        <dc:subject>Mathematical &amp; Statistical Software</dc:subject>
+        <dc:subject>Science</dc:subject>
+        <dc:subject>Life Sciences</dc:subject>
+        <dc:subject>Ecology</dc:subject>
+        <dc:subject>Medical</dc:subject>
+        <dc:subject>Biostatistics</dc:subject>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Probability &amp; Statistics</dc:subject>
+        <dc:subject>Stochastic Processes</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Elena N. Ieno&quot;: &quot;&quot;, &quot;Erik Meesters&quot;: &quot;&quot;, &quot;Alain Zuur&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2020-07-29T18:42:46+00:00" name="calibre:timestamp"/>
+        <meta content="Beginner's Guide to R, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
